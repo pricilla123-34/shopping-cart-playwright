@@ -1,0 +1,6 @@
+[
+  "test_add_to_cart.py::test_add_to_cart1",
+  "test_add_to_cart.py::test_all_items_add_to_cart",
+  "test_add_to_cart.py::test_dynamic_add_to_cart",
+  "test_add_to_cart.py::test_random_add_to_cart"
+]
